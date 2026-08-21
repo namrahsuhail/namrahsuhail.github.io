@@ -4,37 +4,56 @@
   "location": "Dubai, UAE",
   "tagline": "Real estate & brand content — scripted, filmed and edited by me.",
   "about": "Dubai-based content creator and multimedia specialist working across real estate and lifestyle brands. I handle the full process myself — scripting, filming, editing and publishing short-form video, plus design and photography. Comfortable both behind the camera and on it, with a strong eye for what actually performs on Instagram, TikTok and YouTube.",
-
   "contact": {
     "email": "suhailnamrah@gmail.com",
     "phone": "+971 56 376 0809",
     "whatsapp": "https://wa.me/971563760809",
     "canvaPortfolio": "https://namrah.my.canva.site/"
   },
-
   "stats": [
-    { "value": "5+", "label": "years experience" },
-    { "value": "5", "label": "brands managed" },
-    { "value": "100s", "label": "of reels edited" }
+    {
+      "value": "5+",
+      "label": "years experience"
+    },
+    {
+      "value": "5",
+      "label": "brands managed"
+    },
+    {
+      "value": "100s",
+      "label": "of reels edited"
+    }
   ],
-
   "managedAccounts": [
-    { "handle": "@eminenceuae", "url": "https://www.instagram.com/eminenceuae/" },
-    { "handle": "@weare.eminence", "url": "https://www.instagram.com/weare.eminence/" },
-    { "handle": "@mealplanet", "url": "https://www.instagram.com/mealplanet/" },
-    { "handle": "@morecomms", "url": "https://www.instagram.com/morecomms/" },
-    { "handle": "@merkzdigital", "url": "https://www.instagram.com/merkzdigital/" }
+    {
+      "handle": "@eminenceuae",
+      "url": "https://www.instagram.com/eminenceuae/"
+    },
+    {
+      "handle": "@weare.eminence",
+      "url": "https://www.instagram.com/weare.eminence/"
+    },
+    {
+      "handle": "@mealplanet",
+      "url": "https://www.instagram.com/mealplanet/"
+    },
+    {
+      "handle": "@morecomms",
+      "url": "https://www.instagram.com/morecomms/"
+    },
+    {
+      "handle": "@merkzdigital",
+      "url": "https://www.instagram.com/merkzdigital/"
+    }
   ],
-
   "featuredReels": [
-    "https://www.instagram.com/eminenceuae/reel/Db5sHp9qlUw/",
+    "https://www.instagram.com/reel/Db5sHp9qlUw/",
     "https://www.instagram.com/p/DXqvBJKjDxR/",
     "https://www.instagram.com/reel/DVIyYTujJwZ/",
-    "https://www.instagram.com/merkzdigital/reel/Db-hv7-oQuU/",
+    "https://www.instagram.com/reel/Db-hv7-oQuU/",
     "https://www.instagram.com/reel/DUnWdKKjukO/",
     "https://www.instagram.com/reel/Cwc0BHhKK2g/"
   ],
-
   "software": [
     "Adobe Premiere Pro",
     "Adobe Photoshop",
@@ -43,7 +62,6 @@
     "Higgsfield (AI)",
     "Canva"
   ],
-
   "skills": [
     "Short-Form Video (Reels, TikTok, Shorts)",
     "Content Strategy & Trend Research",
@@ -54,13 +72,20 @@
     "Storytelling, Scripting & Copywriting",
     "AI-Assisted Content Creation"
   ],
-
   "languages": [
-    { "name": "English", "level": "Fluent" },
-    { "name": "Arabic", "level": "Conversational" },
-    { "name": "Urdu", "level": "Native" }
+    {
+      "name": "English",
+      "level": "Fluent"
+    },
+    {
+      "name": "Arabic",
+      "level": "Conversational"
+    },
+    {
+      "name": "Urdu",
+      "level": "Native"
+    }
   ],
-
   "experience": [
     {
       "company": "Eminence Real Estate",
@@ -117,7 +142,6 @@
       ]
     }
   ],
-
   "education": [
     {
       "school": "Iqra University",
