@@ -1,0 +1,2042 @@
+[
+ {
+  "slug": "behind-the-scenes",
+  "title": "Behind the Scenes",
+  "type": "video",
+  "category": "Events & BTS",
+  "count": 5,
+  "cover": "/assets/video/behind-the-scenes/office-intro-poster.webp",
+  "items": [
+   {
+    "slug": "office-intro",
+    "title": "(office) intro",
+    "preview": "/assets/video/behind-the-scenes/office-intro-preview.mp4",
+    "poster": "/assets/video/behind-the-scenes/office-intro-poster.webp",
+    "file": "behind-the-scenes/office-intro.mp4",
+    "w": 1440,
+    "h": 2560,
+    "duration": 21.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "bts-yaani-welfare",
+    "title": "BTS (yaani welfare )",
+    "preview": "/assets/video/behind-the-scenes/bts-yaani-welfare-preview.mp4",
+    "poster": "/assets/video/behind-the-scenes/bts-yaani-welfare-poster.webp",
+    "file": "behind-the-scenes/bts-yaani-welfare.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 37.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "bts-more-deliveroo-x-fix-dessert-chocolatier",
+    "title": "BTS More (Deliveroo x FIX Dessert Chocolatier)",
+    "preview": "/assets/video/behind-the-scenes/bts-more-deliveroo-x-fix-dessert-chocolatier-preview.mp4",
+    "poster": "/assets/video/behind-the-scenes/bts-more-deliveroo-x-fix-dessert-chocolatier-poster.webp",
+    "file": "behind-the-scenes/bts-more-deliveroo-x-fix-dessert-chocolatier.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 36.8,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "ramadan-bts",
+    "title": "Ramadan BTS",
+    "preview": "/assets/video/behind-the-scenes/ramadan-bts-preview.mp4",
+    "poster": "/assets/video/behind-the-scenes/ramadan-bts-poster.webp",
+    "file": "behind-the-scenes/ramadan-bts.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 16.3,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "ramadan-decor",
+    "title": "Ramadan decor",
+    "preview": "/assets/video/behind-the-scenes/ramadan-decor-preview.mp4",
+    "poster": "/assets/video/behind-the-scenes/ramadan-decor-poster.webp",
+    "file": "behind-the-scenes/ramadan-decor.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 41.2,
+    "orientation": "vertical"
+   }
+  ]
+ },
+ {
+  "slug": "deliveroo",
+  "title": "Deliveroo",
+  "type": "video",
+  "category": "Food & Beverage",
+  "count": 28,
+  "cover": "/assets/video/deliveroo/2024-recap-poster.webp",
+  "items": [
+   {
+    "slug": "2024-recap",
+    "title": "2024 recap",
+    "preview": "/assets/video/deliveroo/2024-recap-preview.mp4",
+    "poster": "/assets/video/deliveroo/2024-recap-poster.webp",
+    "file": "deliveroo/2024-recap.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 53.9,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "bell-delivero",
+    "title": "Bell delivero",
+    "preview": "/assets/video/deliveroo/bell-delivero-preview.mp4",
+    "poster": "/assets/video/deliveroo/bell-delivero-poster.webp",
+    "file": "deliveroo/bell-delivero.mp4",
+    "w": 1440,
+    "h": 2560,
+    "duration": 8.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "cfu",
+    "title": "CFU",
+    "preview": "/assets/video/deliveroo/cfu-preview.mp4",
+    "poster": "/assets/video/deliveroo/cfu-poster.webp",
+    "file": "deliveroo/cfu.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 25.9,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "cold-play-x-deliveroo",
+    "title": "Cold play x deliveroo",
+    "preview": "/assets/video/deliveroo/cold-play-x-deliveroo-preview.mp4",
+    "poster": "/assets/video/deliveroo/cold-play-x-deliveroo-poster.webp",
+    "file": "deliveroo/cold-play-x-deliveroo.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 16.3,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "delivero-rider",
+    "title": "DELIVERO rider",
+    "preview": "/assets/video/deliveroo/delivero-rider-preview.mp4",
+    "poster": "/assets/video/deliveroo/delivero-rider-poster.webp",
+    "file": "deliveroo/delivero-rider.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 9.1,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "discover-endless-possibilities-with-mealplanet-explore-over-",
+    "title": "Discover endless possibilities with MealPlanet! 🌟 Explore over 100 top brands, pick your perfec",
+    "preview": "/assets/video/deliveroo/discover-endless-possibilities-with-mealplanet-explore-over--preview.mp4",
+    "poster": "/assets/video/deliveroo/discover-endless-possibilities-with-mealplanet-explore-over--poster.webp",
+    "file": "deliveroo/discover-endless-possibilities-with-mealplanet-explore-over-.mp4",
+    "w": 360,
+    "h": 640,
+    "duration": 29.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "eid-ul-fitar",
+    "title": "EID UL FITAR",
+    "preview": "/assets/video/deliveroo/eid-ul-fitar-preview.mp4",
+    "poster": "/assets/video/deliveroo/eid-ul-fitar-poster.webp",
+    "file": "deliveroo/eid-ul-fitar.mp4",
+    "w": 1440,
+    "h": 2560,
+    "duration": 13.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "folded-paper",
+    "title": "Folded paper",
+    "preview": "/assets/video/deliveroo/folded-paper-preview.mp4",
+    "poster": "/assets/video/deliveroo/folded-paper-poster.webp",
+    "file": "deliveroo/folded-paper.mp4",
+    "w": 1440,
+    "h": 2560,
+    "duration": 9.3,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "food-x-ray",
+    "title": "Food X-ray",
+    "preview": "/assets/video/deliveroo/food-x-ray-preview.mp4",
+    "poster": "/assets/video/deliveroo/food-x-ray-poster.webp",
+    "file": "deliveroo/food-x-ray.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 10.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "food-xray",
+    "title": "Food xray",
+    "preview": "/assets/video/deliveroo/food-xray-preview.mp4",
+    "poster": "/assets/video/deliveroo/food-xray-poster.webp",
+    "file": "deliveroo/food-xray.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 10.9,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "highlights-awards",
+    "title": "Highlights , awards",
+    "preview": "/assets/video/deliveroo/highlights-awards-preview.mp4",
+    "poster": "/assets/video/deliveroo/highlights-awards-poster.webp",
+    "file": "deliveroo/highlights-awards.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 6.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "humantra",
+    "title": "Humantra",
+    "preview": "/assets/video/deliveroo/humantra-preview.mp4",
+    "poster": "/assets/video/deliveroo/humantra-poster.webp",
+    "file": "deliveroo/humantra.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 101.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "mother",
+    "title": "MOTHER",
+    "preview": "/assets/video/deliveroo/mother-preview.mp4",
+    "poster": "/assets/video/deliveroo/mother-poster.webp",
+    "file": "deliveroo/mother.mp4",
+    "w": 1440,
+    "h": 2560,
+    "duration": 8.3,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "our-reaction-when-we-realized-that-the-viral-frukti-propitio",
+    "title": "Our reaction when we realized that the viral Frukti Propitious mango ice cream is now available",
+    "preview": "/assets/video/deliveroo/our-reaction-when-we-realized-that-the-viral-frukti-propitio-preview.mp4",
+    "poster": "/assets/video/deliveroo/our-reaction-when-we-realized-that-the-viral-frukti-propitio-poster.webp",
+    "file": "deliveroo/our-reaction-when-we-realized-that-the-viral-frukti-propitio.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 12.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "promotion",
+    "title": "Promotion",
+    "preview": "/assets/video/deliveroo/promotion-preview.mp4",
+    "poster": "/assets/video/deliveroo/promotion-poster.webp",
+    "file": "deliveroo/promotion.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 23.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "promotion-2",
+    "title": "Promotion",
+    "preview": "/assets/video/deliveroo/promotion-2-preview.mp4",
+    "poster": "/assets/video/deliveroo/promotion-2-poster.webp",
+    "file": "deliveroo/promotion-2.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 5.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "ramdan",
+    "title": "Ramdan",
+    "preview": "/assets/video/deliveroo/ramdan-preview.mp4",
+    "poster": "/assets/video/deliveroo/ramdan-poster.webp",
+    "file": "deliveroo/ramdan.mp4",
+    "w": 1440,
+    "h": 2560,
+    "duration": 24.8,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "sports-deliveroo",
+    "title": "Sports deliveroo",
+    "preview": "/assets/video/deliveroo/sports-deliveroo-preview.mp4",
+    "poster": "/assets/video/deliveroo/sports-deliveroo-poster.webp",
+    "file": "deliveroo/sports-deliveroo.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 89.3,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "stop-motion",
+    "title": "Stop motion",
+    "preview": "/assets/video/deliveroo/stop-motion-preview.mp4",
+    "poster": "/assets/video/deliveroo/stop-motion-poster.webp",
+    "file": "deliveroo/stop-motion.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 4.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "stop-motion-2",
+    "title": "Stop motion 2",
+    "preview": "/assets/video/deliveroo/stop-motion-2-preview.mp4",
+    "poster": "/assets/video/deliveroo/stop-motion-2-poster.webp",
+    "file": "deliveroo/stop-motion-2.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 5.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "subtle-shadowing",
+    "title": "Subtle shadowing",
+    "preview": "/assets/video/deliveroo/subtle-shadowing-preview.mp4",
+    "poster": "/assets/video/deliveroo/subtle-shadowing-poster.webp",
+    "file": "deliveroo/subtle-shadowing.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 15.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "sushi-with-no-super",
+    "title": "Sushi with no super",
+    "preview": "/assets/video/deliveroo/sushi-with-no-super-preview.mp4",
+    "poster": "/assets/video/deliveroo/sushi-with-no-super-poster.webp",
+    "file": "deliveroo/sushi-with-no-super.mp4",
+    "w": 1440,
+    "h": 2560,
+    "duration": 12.4,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "taqado",
+    "title": "Taqado",
+    "preview": "/assets/video/deliveroo/taqado-preview.mp4",
+    "poster": "/assets/video/deliveroo/taqado-poster.webp",
+    "file": "deliveroo/taqado.mp4",
+    "w": 1440,
+    "h": 2560,
+    "duration": 30.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "trend-2",
+    "title": "Trend 2",
+    "preview": "/assets/video/deliveroo/trend-2-preview.mp4",
+    "poster": "/assets/video/deliveroo/trend-2-poster.webp",
+    "file": "deliveroo/trend-2.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 7.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "trend-3",
+    "title": "Trend 3",
+    "preview": "/assets/video/deliveroo/trend-3-preview.mp4",
+    "poster": "/assets/video/deliveroo/trend-3-poster.webp",
+    "file": "deliveroo/trend-3.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 17.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "trend",
+    "title": "Trend",
+    "preview": "/assets/video/deliveroo/trend-preview.mp4",
+    "poster": "/assets/video/deliveroo/trend-poster.webp",
+    "file": "deliveroo/trend.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 6.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "un-boxing-ending-variation-1",
+    "title": "Un boxing ending variation 1",
+    "preview": "/assets/video/deliveroo/un-boxing-ending-variation-1-preview.mp4",
+    "poster": "/assets/video/deliveroo/un-boxing-ending-variation-1-poster.webp",
+    "file": "deliveroo/un-boxing-ending-variation-1.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 20.1,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "bliss",
+    "title": "BLISS",
+    "preview": "/assets/video/deliveroo/bliss-preview.mp4",
+    "poster": "/assets/video/deliveroo/bliss-poster.webp",
+    "file": "deliveroo/bliss.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 174.7,
+    "orientation": "vertical"
+   }
+  ]
+ },
+ {
+  "slug": "deliveroo-behind-the-scenes",
+  "title": "Deliveroo — Behind the Scenes",
+  "type": "video",
+  "category": "Events & BTS",
+  "count": 6,
+  "cover": "/assets/video/deliveroo-behind-the-scenes/deliveroo-award-intro-poster.webp",
+  "items": [
+   {
+    "slug": "deliveroo-award-intro",
+    "title": "DEliveroo award intro",
+    "preview": "/assets/video/deliveroo-behind-the-scenes/deliveroo-award-intro-preview.mp4",
+    "poster": "/assets/video/deliveroo-behind-the-scenes/deliveroo-award-intro-poster.webp",
+    "file": "deliveroo-behind-the-scenes/deliveroo-award-intro.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 10.6,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "deliveroo-awards",
+    "title": "Deliveroo awards",
+    "preview": "/assets/video/deliveroo-behind-the-scenes/deliveroo-awards-preview.mp4",
+    "poster": "/assets/video/deliveroo-behind-the-scenes/deliveroo-awards-poster.webp",
+    "file": "deliveroo-behind-the-scenes/deliveroo-awards.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 15.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "teal-santa-story",
+    "title": "Teal santa story",
+    "preview": "/assets/video/deliveroo-behind-the-scenes/teal-santa-story-preview.mp4",
+    "poster": "/assets/video/deliveroo-behind-the-scenes/teal-santa-story-poster.webp",
+    "file": "deliveroo-behind-the-scenes/teal-santa-story.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 23.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "teal-santa-story-3",
+    "title": "Teal Santa story 3",
+    "preview": "/assets/video/deliveroo-behind-the-scenes/teal-santa-story-3-preview.mp4",
+    "poster": "/assets/video/deliveroo-behind-the-scenes/teal-santa-story-3-poster.webp",
+    "file": "deliveroo-behind-the-scenes/teal-santa-story-3.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 33.1,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "teal-santa-story-2",
+    "title": "Teal santa story",
+    "preview": "/assets/video/deliveroo-behind-the-scenes/teal-santa-story-2-preview.mp4",
+    "poster": "/assets/video/deliveroo-behind-the-scenes/teal-santa-story-2-poster.webp",
+    "file": "deliveroo-behind-the-scenes/teal-santa-story-2.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 15.4,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "teal-santaa",
+    "title": "Teal santaa",
+    "preview": "/assets/video/deliveroo-behind-the-scenes/teal-santaa-preview.mp4",
+    "poster": "/assets/video/deliveroo-behind-the-scenes/teal-santaa-poster.webp",
+    "file": "deliveroo-behind-the-scenes/teal-santaa.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 25.6,
+    "orientation": "vertical"
+   }
+  ]
+ },
+ {
+  "slug": "gitex-dubai",
+  "title": "GITEX Dubai",
+  "type": "video",
+  "category": "Events & BTS",
+  "count": 5,
+  "cover": "/assets/video/gitex-dubai/ai-award-2024-poster.webp",
+  "items": [
+   {
+    "slug": "ai-award-2024",
+    "title": "Ai award 2024",
+    "preview": "/assets/video/gitex-dubai/ai-award-2024-preview.mp4",
+    "poster": "/assets/video/gitex-dubai/ai-award-2024-poster.webp",
+    "file": "gitex-dubai/ai-award-2024.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 31.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "desc-event-dubai-ai-festival",
+    "title": "DESC EVENT ( dubai ai festival)",
+    "preview": "/assets/video/gitex-dubai/desc-event-dubai-ai-festival-preview.mp4",
+    "poster": "/assets/video/gitex-dubai/desc-event-dubai-ai-festival-poster.webp",
+    "file": "gitex-dubai/desc-event-dubai-ai-festival.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 32.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "gitex-day-2",
+    "title": "Gitex day 2",
+    "preview": "/assets/video/gitex-dubai/gitex-day-2-preview.mp4",
+    "poster": "/assets/video/gitex-dubai/gitex-day-2-poster.webp",
+    "file": "gitex-dubai/gitex-day-2.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 29.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "gitex-day-3",
+    "title": "GITEX day 3",
+    "preview": "/assets/video/gitex-dubai/gitex-day-3-preview.mp4",
+    "poster": "/assets/video/gitex-dubai/gitex-day-3-poster.webp",
+    "file": "gitex-dubai/gitex-day-3.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 23.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "gitex-event-desc",
+    "title": "GITEX event ( desc )",
+    "preview": "/assets/video/gitex-dubai/gitex-event-desc-preview.mp4",
+    "poster": "/assets/video/gitex-dubai/gitex-event-desc-poster.webp",
+    "file": "gitex-dubai/gitex-event-desc.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 36.6,
+    "orientation": "vertical"
+   }
+  ]
+ },
+ {
+  "slug": "kana-cafe",
+  "title": "Kana Cafe",
+  "type": "video",
+  "category": "Food & Beverage",
+  "count": 6,
+  "cover": "/assets/video/kana-cafe/kana-cafe-enviroment-poster.webp",
+  "items": [
+   {
+    "slug": "kana-cafe-enviroment",
+    "title": "Kana cafe Enviroment",
+    "preview": "/assets/video/kana-cafe/kana-cafe-enviroment-preview.mp4",
+    "poster": "/assets/video/kana-cafe/kana-cafe-enviroment-poster.webp",
+    "file": "kana-cafe/kana-cafe-enviroment.mp4",
+    "w": 480,
+    "h": 848,
+    "duration": 16.3,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "kana-drink-transition",
+    "title": "Kana drink Transition",
+    "preview": "/assets/video/kana-cafe/kana-drink-transition-preview.mp4",
+    "poster": "/assets/video/kana-cafe/kana-drink-transition-poster.webp",
+    "file": "kana-cafe/kana-drink-transition.mp4",
+    "w": 480,
+    "h": 848,
+    "duration": 16.8,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "kana-food-transition",
+    "title": "Kana food Transition",
+    "preview": "/assets/video/kana-cafe/kana-food-transition-preview.mp4",
+    "poster": "/assets/video/kana-cafe/kana-food-transition-poster.webp",
+    "file": "kana-cafe/kana-food-transition.mp4",
+    "w": 480,
+    "h": 848,
+    "duration": 18.1,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "kana-ramadan",
+    "title": "Kana Ramadan",
+    "preview": "/assets/video/kana-cafe/kana-ramadan-preview.mp4",
+    "poster": "/assets/video/kana-cafe/kana-ramadan-poster.webp",
+    "file": "kana-cafe/kana-ramadan.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 16.3,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "kana-vibe",
+    "title": "Kana vibe",
+    "preview": "/assets/video/kana-cafe/kana-vibe-preview.mp4",
+    "poster": "/assets/video/kana-cafe/kana-vibe-poster.webp",
+    "file": "kana-cafe/kana-vibe.mp4",
+    "w": 480,
+    "h": 848,
+    "duration": 29.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "steak-kana-cafe",
+    "title": "Steak kana cafe",
+    "preview": "/assets/video/kana-cafe/steak-kana-cafe-preview.mp4",
+    "poster": "/assets/video/kana-cafe/steak-kana-cafe-poster.webp",
+    "file": "kana-cafe/steak-kana-cafe.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 35.3,
+    "orientation": "vertical"
+   }
+  ]
+ },
+ {
+  "slug": "liva-tree-planting",
+  "title": "Liva — Tree Planting",
+  "type": "video",
+  "category": "Events & BTS",
+  "count": 4,
+  "cover": "/assets/video/liva-tree-planting/intro-liva-event-poster.webp",
+  "items": [
+   {
+    "slug": "intro-liva-event",
+    "title": "Intro liva event",
+    "preview": "/assets/video/liva-tree-planting/intro-liva-event-preview.mp4",
+    "poster": "/assets/video/liva-tree-planting/intro-liva-event-poster.webp",
+    "file": "liva-tree-planting/intro-liva-event.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 6.8,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "liva-planting-event",
+    "title": "Liva planting event",
+    "preview": "/assets/video/liva-tree-planting/liva-planting-event-preview.mp4",
+    "poster": "/assets/video/liva-tree-planting/liva-planting-event-poster.webp",
+    "file": "liva-tree-planting/liva-planting-event.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 17.8,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "liva-tree-planting",
+    "title": "Liva tree planting",
+    "preview": "/assets/video/liva-tree-planting/liva-tree-planting-preview.mp4",
+    "poster": "/assets/video/liva-tree-planting/liva-tree-planting-poster.webp",
+    "file": "liva-tree-planting/liva-tree-planting.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 12.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "tree-liva",
+    "title": "Tree (liva)",
+    "preview": "/assets/video/liva-tree-planting/tree-liva-preview.mp4",
+    "poster": "/assets/video/liva-tree-planting/tree-liva-poster.webp",
+    "file": "liva-tree-planting/tree-liva.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 28.1,
+    "orientation": "vertical"
+   }
+  ]
+ },
+ {
+  "slug": "madaloni-pizza-stories",
+  "title": "Madaloni — Pizza Stories",
+  "type": "video",
+  "category": "Food & Beverage",
+  "count": 6,
+  "cover": "/assets/video/madaloni-pizza-stories/5-poster.webp",
+  "items": [
+   {
+    "slug": "5",
+    "title": "5",
+    "preview": "/assets/video/madaloni-pizza-stories/5-preview.mp4",
+    "poster": "/assets/video/madaloni-pizza-stories/5-poster.webp",
+    "file": "madaloni-pizza-stories/5.mp4",
+    "w": 1440,
+    "h": 2560,
+    "duration": 5.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "6",
+    "title": "6",
+    "preview": "/assets/video/madaloni-pizza-stories/6-preview.mp4",
+    "poster": "/assets/video/madaloni-pizza-stories/6-poster.webp",
+    "file": "madaloni-pizza-stories/6.mp4",
+    "w": 1440,
+    "h": 2560,
+    "duration": 6.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "madaloni-1",
+    "title": "Madaloni 1",
+    "preview": "/assets/video/madaloni-pizza-stories/madaloni-1-preview.mp4",
+    "poster": "/assets/video/madaloni-pizza-stories/madaloni-1-poster.webp",
+    "file": "madaloni-pizza-stories/madaloni-1.mp4",
+    "w": 1440,
+    "h": 2560,
+    "duration": 5.3,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "madaloni-2",
+    "title": "Madaloni 2",
+    "preview": "/assets/video/madaloni-pizza-stories/madaloni-2-preview.mp4",
+    "poster": "/assets/video/madaloni-pizza-stories/madaloni-2-poster.webp",
+    "file": "madaloni-pizza-stories/madaloni-2.mp4",
+    "w": 1440,
+    "h": 2560,
+    "duration": 11.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "madaloni-3",
+    "title": "Madaloni 3",
+    "preview": "/assets/video/madaloni-pizza-stories/madaloni-3-preview.mp4",
+    "poster": "/assets/video/madaloni-pizza-stories/madaloni-3-poster.webp",
+    "file": "madaloni-pizza-stories/madaloni-3.mp4",
+    "w": 1440,
+    "h": 2560,
+    "duration": 9.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "madaloni-4",
+    "title": "Madaloni 4",
+    "preview": "/assets/video/madaloni-pizza-stories/madaloni-4-preview.mp4",
+    "poster": "/assets/video/madaloni-pizza-stories/madaloni-4-poster.webp",
+    "file": "madaloni-pizza-stories/madaloni-4.mp4",
+    "w": 1440,
+    "h": 2560,
+    "duration": 11.1,
+    "orientation": "vertical"
+   }
+  ]
+ },
+ {
+  "slug": "mawarid-interview",
+  "title": "Mawarid — Interview",
+  "type": "video",
+  "category": "Brand",
+  "count": 2,
+  "cover": "/assets/video/mawarid-interview/16x9-english-poster.webp",
+  "items": [
+   {
+    "slug": "16x9-english",
+    "title": "16X9 English",
+    "preview": "/assets/video/mawarid-interview/16x9-english-preview.mp4",
+    "poster": "/assets/video/mawarid-interview/16x9-english-poster.webp",
+    "file": "mawarid-interview/16x9-english.mp4",
+    "w": 3840,
+    "h": 2160,
+    "duration": 38.7,
+    "orientation": "horizontal"
+   },
+   {
+    "slug": "9x16-english",
+    "title": "9x16 English",
+    "preview": "/assets/video/mawarid-interview/9x16-english-preview.mp4",
+    "poster": "/assets/video/mawarid-interview/9x16-english-poster.webp",
+    "file": "mawarid-interview/9x16-english.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 39.4,
+    "orientation": "vertical"
+   }
+  ]
+ },
+ {
+  "slug": "me-one",
+  "title": "Me One",
+  "type": "video",
+  "category": "Brand",
+  "count": 1,
+  "cover": "/assets/video/me-one/meone-poster.webp",
+  "items": [
+   {
+    "slug": "meone",
+    "title": "Meone",
+    "preview": "/assets/video/me-one/meone-preview.mp4",
+    "poster": "/assets/video/me-one/meone-poster.webp",
+    "file": "me-one/meone.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 57.1,
+    "orientation": "vertical"
+   }
+  ]
+ },
+ {
+  "slug": "meal-planet",
+  "title": "Meal Planet",
+  "type": "video",
+  "category": "Food & Beverage",
+  "count": 10,
+  "cover": "/assets/video/meal-planet/all-in-one-place-2-poster.webp",
+  "items": [
+   {
+    "slug": "all-in-one-place-2",
+    "title": "All in one place 2",
+    "preview": "/assets/video/meal-planet/all-in-one-place-2-preview.mp4",
+    "poster": "/assets/video/meal-planet/all-in-one-place-2-poster.webp",
+    "file": "meal-planet/all-in-one-place-2.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 6.4,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "discover-endless-possibilities-with-mealplanet-explore-over-",
+    "title": "Discover endless possibilities with MealPlanet! 🌟 Explore over 100 top brands, pick your perfec",
+    "preview": "/assets/video/meal-planet/discover-endless-possibilities-with-mealplanet-explore-over--preview.mp4",
+    "poster": "/assets/video/meal-planet/discover-endless-possibilities-with-mealplanet-explore-over--poster.webp",
+    "file": "meal-planet/discover-endless-possibilities-with-mealplanet-explore-over-.mp4",
+    "w": 360,
+    "h": 640,
+    "duration": 29.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "lean-co-meal-planet",
+    "title": "Lean co meal planet",
+    "preview": "/assets/video/meal-planet/lean-co-meal-planet-preview.mp4",
+    "poster": "/assets/video/meal-planet/lean-co-meal-planet-poster.webp",
+    "file": "meal-planet/lean-co-meal-planet.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 4.9,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "life-style",
+    "title": "Life style",
+    "preview": "/assets/video/meal-planet/life-style-preview.mp4",
+    "poster": "/assets/video/meal-planet/life-style-poster.webp",
+    "file": "meal-planet/life-style.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 28.6,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "meal-plan",
+    "title": "Meal plan",
+    "preview": "/assets/video/meal-planet/meal-plan-preview.mp4",
+    "poster": "/assets/video/meal-planet/meal-plan-poster.webp",
+    "file": "meal-planet/meal-plan.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 11.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "meal-planet",
+    "title": "Meal planet",
+    "preview": "/assets/video/meal-planet/meal-planet-preview.mp4",
+    "poster": "/assets/video/meal-planet/meal-planet-poster.webp",
+    "file": "meal-planet/meal-planet.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 7.4,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "meal-planet-2",
+    "title": "Meal planet",
+    "preview": "/assets/video/meal-planet/meal-planet-2-preview.mp4",
+    "poster": "/assets/video/meal-planet/meal-planet-2-poster.webp",
+    "file": "meal-planet/meal-planet-2.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 5.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "stop-motion-meal-planet",
+    "title": "Stop motion meal planet",
+    "preview": "/assets/video/meal-planet/stop-motion-meal-planet-preview.mp4",
+    "poster": "/assets/video/meal-planet/stop-motion-meal-planet-poster.webp",
+    "file": "meal-planet/stop-motion-meal-planet.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 4.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "stop-motion",
+    "title": "Stop motion",
+    "preview": "/assets/video/meal-planet/stop-motion-preview.mp4",
+    "poster": "/assets/video/meal-planet/stop-motion-poster.webp",
+    "file": "meal-planet/stop-motion.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 35.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "subscription",
+    "title": "Subscription",
+    "preview": "/assets/video/meal-planet/subscription-preview.mp4",
+    "poster": "/assets/video/meal-planet/subscription-poster.webp",
+    "file": "meal-planet/subscription.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 29.9,
+    "orientation": "vertical"
+   }
+  ]
+ },
+ {
+  "slug": "real-estate-ai-videos",
+  "title": "Real Estate — AI Videos",
+  "type": "video",
+  "category": "Real Estate",
+  "count": 13,
+  "cover": "/assets/video/real-estate-ai-videos/curent-situation-poster.webp",
+  "items": [
+   {
+    "slug": "curent-situation",
+    "title": "CURENT SITUATION",
+    "preview": "/assets/video/real-estate-ai-videos/curent-situation-preview.mp4",
+    "poster": "/assets/video/real-estate-ai-videos/curent-situation-poster.webp",
+    "file": "real-estate-ai-videos/curent-situation.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 44.8,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "dubai-loop-qr",
+    "title": "Dubai loop QR",
+    "preview": "/assets/video/real-estate-ai-videos/dubai-loop-qr-preview.mp4",
+    "poster": "/assets/video/real-estate-ai-videos/dubai-loop-qr-poster.webp",
+    "file": "real-estate-ai-videos/dubai-loop-qr.mp4",
+    "w": 1080,
+    "h": 1620,
+    "duration": 53.9,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "eid",
+    "title": "EID",
+    "preview": "/assets/video/real-estate-ai-videos/eid-preview.mp4",
+    "poster": "/assets/video/real-estate-ai-videos/eid-poster.webp",
+    "file": "real-estate-ai-videos/eid.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 13.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "jasmine-elite",
+    "title": "JASMINE ELITE",
+    "preview": "/assets/video/real-estate-ai-videos/jasmine-elite-preview.mp4",
+    "poster": "/assets/video/real-estate-ai-videos/jasmine-elite-poster.webp",
+    "file": "real-estate-ai-videos/jasmine-elite.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 20.4,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "london-roadshow-male-voice",
+    "title": "LONDON ROADSHOW male voice",
+    "preview": "/assets/video/real-estate-ai-videos/london-roadshow-male-voice-preview.mp4",
+    "poster": "/assets/video/real-estate-ai-videos/london-roadshow-male-voice-poster.webp",
+    "file": "real-estate-ai-videos/london-roadshow-male-voice.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 33.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "mega-airport-ai",
+    "title": "MEGA AIRPORT (AI)",
+    "preview": "/assets/video/real-estate-ai-videos/mega-airport-ai-preview.mp4",
+    "poster": "/assets/video/real-estate-ai-videos/mega-airport-ai-poster.webp",
+    "file": "real-estate-ai-videos/mega-airport-ai.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 56.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "nasg",
+    "title": "NASG",
+    "preview": "/assets/video/real-estate-ai-videos/nasg-preview.mp4",
+    "poster": "/assets/video/real-estate-ai-videos/nasg-poster.webp",
+    "file": "real-estate-ai-videos/nasg.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 42.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "oasis",
+    "title": "Oasis",
+    "preview": "/assets/video/real-estate-ai-videos/oasis-preview.mp4",
+    "poster": "/assets/video/real-estate-ai-videos/oasis-poster.webp",
+    "file": "real-estate-ai-videos/oasis.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 57.6,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "palm-central-jasmine",
+    "title": "Palm central (jasmine)",
+    "preview": "/assets/video/real-estate-ai-videos/palm-central-jasmine-preview.mp4",
+    "poster": "/assets/video/real-estate-ai-videos/palm-central-jasmine-poster.webp",
+    "file": "real-estate-ai-videos/palm-central-jasmine.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 34.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "pv1",
+    "title": "PV1",
+    "preview": "/assets/video/real-estate-ai-videos/pv1-preview.mp4",
+    "poster": "/assets/video/real-estate-ai-videos/pv1-poster.webp",
+    "file": "real-estate-ai-videos/pv1.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 21.6,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "qr-heights",
+    "title": "Qr heights",
+    "preview": "/assets/video/real-estate-ai-videos/qr-heights-preview.mp4",
+    "poster": "/assets/video/real-estate-ai-videos/qr-heights-poster.webp",
+    "file": "real-estate-ai-videos/qr-heights.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 46.4,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "roadshow-female",
+    "title": "ROADSHOW(female",
+    "preview": "/assets/video/real-estate-ai-videos/roadshow-female-preview.mp4",
+    "poster": "/assets/video/real-estate-ai-videos/roadshow-female-poster.webp",
+    "file": "real-estate-ai-videos/roadshow-female.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 33.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "zabeel-difc-qr",
+    "title": "ZABEEL DIFC QR",
+    "preview": "/assets/video/real-estate-ai-videos/zabeel-difc-qr-preview.mp4",
+    "poster": "/assets/video/real-estate-ai-videos/zabeel-difc-qr-poster.webp",
+    "file": "real-estate-ai-videos/zabeel-difc-qr.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 57.7,
+    "orientation": "vertical"
+   }
+  ]
+ },
+ {
+  "slug": "real-estate-briefings-stories",
+  "title": "Real Estate — Briefings & Stories",
+  "type": "video",
+  "category": "Real Estate",
+  "count": 15,
+  "cover": "/assets/video/real-estate-briefings-stories/15-sep-omniyat-brief-poster.webp",
+  "items": [
+   {
+    "slug": "15-sep-omniyat-brief",
+    "title": "15 sep omniyat (brief)",
+    "preview": "/assets/video/real-estate-briefings-stories/15-sep-omniyat-brief-preview.mp4",
+    "poster": "/assets/video/real-estate-briefings-stories/15-sep-omniyat-brief-poster.webp",
+    "file": "real-estate-briefings-stories/15-sep-omniyat-brief.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 27.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "16-sep-dubai-holding",
+    "title": "16 sep dubai holding",
+    "preview": "/assets/video/real-estate-briefings-stories/16-sep-dubai-holding-preview.mp4",
+    "poster": "/assets/video/real-estate-briefings-stories/16-sep-dubai-holding-poster.webp",
+    "file": "real-estate-briefings-stories/16-sep-dubai-holding.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 34.9,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "17-sep-amis",
+    "title": "17 sep AMIS",
+    "preview": "/assets/video/real-estate-briefings-stories/17-sep-amis-preview.mp4",
+    "poster": "/assets/video/real-estate-briefings-stories/17-sep-amis-poster.webp",
+    "file": "real-estate-briefings-stories/17-sep-amis.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 21.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "17-sep-brief-beyond",
+    "title": "17 sep brief beyond",
+    "preview": "/assets/video/real-estate-briefings-stories/17-sep-brief-beyond-preview.mp4",
+    "poster": "/assets/video/real-estate-briefings-stories/17-sep-brief-beyond-poster.webp",
+    "file": "real-estate-briefings-stories/17-sep-brief-beyond.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 27.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "30th-july-breif",
+    "title": "30th july breif",
+    "preview": "/assets/video/real-estate-briefings-stories/30th-july-breif-preview.mp4",
+    "poster": "/assets/video/real-estate-briefings-stories/30th-july-breif-poster.webp",
+    "file": "real-estate-briefings-stories/30th-july-breif.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 26.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "breif",
+    "title": "Breif",
+    "preview": "/assets/video/real-estate-briefings-stories/breif-preview.mp4",
+    "poster": "/assets/video/real-estate-briefings-stories/breif-poster.webp",
+    "file": "real-estate-briefings-stories/breif.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 24.6,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "brief",
+    "title": "Brief",
+    "preview": "/assets/video/real-estate-briefings-stories/brief-preview.mp4",
+    "poster": "/assets/video/real-estate-briefings-stories/brief-poster.webp",
+    "file": "real-estate-briefings-stories/brief.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 19.1,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "briefing-story",
+    "title": "Briefing story",
+    "preview": "/assets/video/real-estate-briefings-stories/briefing-story-preview.mp4",
+    "poster": "/assets/video/real-estate-briefings-stories/briefing-story-poster.webp",
+    "file": "real-estate-briefings-stories/briefing-story.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 13.6,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "elysian",
+    "title": "ELYSIAN",
+    "preview": "/assets/video/real-estate-briefings-stories/elysian-preview.mp4",
+    "poster": "/assets/video/real-estate-briefings-stories/elysian-poster.webp",
+    "file": "real-estate-briefings-stories/elysian.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 21.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "evolutions",
+    "title": "EVOLUTIONS",
+    "preview": "/assets/video/real-estate-briefings-stories/evolutions-preview.mp4",
+    "poster": "/assets/video/real-estate-briefings-stories/evolutions-poster.webp",
+    "file": "real-estate-briefings-stories/evolutions.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 15.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "object-1",
+    "title": "Object 1",
+    "preview": "/assets/video/real-estate-briefings-stories/object-1-preview.mp4",
+    "poster": "/assets/video/real-estate-briefings-stories/object-1-poster.webp",
+    "file": "real-estate-briefings-stories/object-1.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 15.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "ohana-breif",
+    "title": "OHANA breif",
+    "preview": "/assets/video/real-estate-briefings-stories/ohana-breif-preview.mp4",
+    "poster": "/assets/video/real-estate-briefings-stories/ohana-breif-poster.webp",
+    "file": "real-estate-briefings-stories/ohana-breif.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 20.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "sobha-briefing",
+    "title": "Sobha briefing",
+    "preview": "/assets/video/real-estate-briefings-stories/sobha-briefing-preview.mp4",
+    "poster": "/assets/video/real-estate-briefings-stories/sobha-briefing-poster.webp",
+    "file": "real-estate-briefings-stories/sobha-briefing.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 21.8,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "sto-trailer",
+    "title": "Sto trailer",
+    "preview": "/assets/video/real-estate-briefings-stories/sto-trailer-preview.mp4",
+    "poster": "/assets/video/real-estate-briefings-stories/sto-trailer-poster.webp",
+    "file": "real-estate-briefings-stories/sto-trailer.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 32.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "briefing",
+    "title": "Briefing",
+    "preview": "/assets/video/real-estate-briefings-stories/briefing-preview.mp4",
+    "poster": "/assets/video/real-estate-briefings-stories/briefing-poster.webp",
+    "file": "real-estate-briefings-stories/briefing.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 28.1,
+    "orientation": "vertical"
+   }
+  ]
+ },
+ {
+  "slug": "real-estate-reels-shorts",
+  "title": "Real Estate — Reels & Shorts",
+  "type": "video",
+  "category": "Real Estate",
+  "count": 59,
+  "cover": "/assets/video/real-estate-reels-shorts/14-poster.webp",
+  "items": [
+   {
+    "slug": "14",
+    "title": "14",
+    "preview": "/assets/video/real-estate-reels-shorts/14-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/14-poster.webp",
+    "file": "real-estate-reels-shorts/14.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 18.3,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "2-million-aed-profit-in-just-two-years-true-story",
+    "title": "2 million AED profit in just two years True story 🏠",
+    "preview": "/assets/video/real-estate-reels-shorts/2-million-aed-profit-in-just-two-years-true-story-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/2-million-aed-profit-in-just-two-years-true-story-poster.webp",
+    "file": "real-estate-reels-shorts/2-million-aed-profit-in-just-two-years-true-story.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 56.1,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "20k-salary-paul-a1",
+    "title": "20k Salary (Paul) - A1",
+    "preview": "/assets/video/real-estate-reels-shorts/20k-salary-paul-a1-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/20k-salary-paul-a1-poster.webp",
+    "file": "real-estate-reels-shorts/20k-salary-paul-a1.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 26.6,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "3-opportunities-primi-ep3",
+    "title": "3 Opportunities (Primi) - EP3;",
+    "preview": "/assets/video/real-estate-reels-shorts/3-opportunities-primi-ep3-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/3-opportunities-primi-ep3-poster.webp",
+    "file": "real-estate-reels-shorts/3-opportunities-primi-ep3.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 46.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "4-reasons-why-dubai-is-the-best-city-for-the-future-1-econom",
+    "title": "4 reasons why Dubai is the best city for the future 1 Economic Agenda- Doubling population in 1",
+    "preview": "/assets/video/real-estate-reels-shorts/4-reasons-why-dubai-is-the-best-city-for-the-future-1-econom-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/4-reasons-why-dubai-is-the-best-city-for-the-future-1-econom-poster.webp",
+    "file": "real-estate-reels-shorts/4-reasons-why-dubai-is-the-best-city-for-the-future-1-econom.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 38.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "4",
+    "title": "4",
+    "preview": "/assets/video/real-estate-reels-shorts/4-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/4-poster.webp",
+    "file": "real-estate-reels-shorts/4.mp4",
+    "w": 360,
+    "h": 640,
+    "duration": 13.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "5-logistics-to-follow",
+    "title": "5 logistics to follow",
+    "preview": "/assets/video/real-estate-reels-shorts/5-logistics-to-follow-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/5-logistics-to-follow-poster.webp",
+    "file": "real-estate-reels-shorts/5-logistics-to-follow.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 85.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "500k-lost-in-3mo",
+    "title": "500k Lost in 3mo",
+    "preview": "/assets/video/real-estate-reels-shorts/500k-lost-in-3mo-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/500k-lost-in-3mo-poster.webp",
+    "file": "real-estate-reels-shorts/500k-lost-in-3mo.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 36.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "are-you-confident-looking-for-a-job-and-russian-or-from-the-",
+    "title": "Are you confident, looking for a job and Russian or from the UK 🇷🇺🇬🇧 Watch this video and sa",
+    "preview": "/assets/video/real-estate-reels-shorts/are-you-confident-looking-for-a-job-and-russian-or-from-the--preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/are-you-confident-looking-for-a-job-and-russian-or-from-the--poster.webp",
+    "file": "real-estate-reels-shorts/are-you-confident-looking-for-a-job-and-russian-or-from-the-.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 12.8,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "barari-palace-aed-jasmin",
+    "title": "Barari Palace AED - Jasmin",
+    "preview": "/assets/video/real-estate-reels-shorts/barari-palace-aed-jasmin-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/barari-palace-aed-jasmin-poster.webp",
+    "file": "real-estate-reels-shorts/barari-palace-aed-jasmin.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 28.8,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "billionares-row-kathryn-a1",
+    "title": "Billionares' Row (Kathryn) - A1",
+    "preview": "/assets/video/real-estate-reels-shorts/billionares-row-kathryn-a1-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/billionares-row-kathryn-a1-poster.webp",
+    "file": "real-estate-reels-shorts/billionares-row-kathryn-a1.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 27.1,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "blue-waters-copy",
+    "title": "Blue waters copy",
+    "preview": "/assets/video/real-estate-reels-shorts/blue-waters-copy-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/blue-waters-copy-poster.webp",
+    "file": "real-estate-reels-shorts/blue-waters-copy.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 43.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "break-down-with-qr",
+    "title": "Break down with qr",
+    "preview": "/assets/video/real-estate-reels-shorts/break-down-with-qr-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/break-down-with-qr-poster.webp",
+    "file": "real-estate-reels-shorts/break-down-with-qr.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 37.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "broker-checklist-yogesh",
+    "title": "Broker Checklist (Yogesh)",
+    "preview": "/assets/video/real-estate-reels-shorts/broker-checklist-yogesh-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/broker-checklist-yogesh-poster.webp",
+    "file": "real-estate-reels-shorts/broker-checklist-yogesh.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 37.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "c1-variation-1",
+    "title": "C1- variation 1",
+    "preview": "/assets/video/real-estate-reels-shorts/c1-variation-1-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/c1-variation-1-poster.webp",
+    "file": "real-estate-reels-shorts/c1-variation-1.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 7.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "c4-variation-1-1",
+    "title": "C4 variation 1 1",
+    "preview": "/assets/video/real-estate-reels-shorts/c4-variation-1-1-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/c4-variation-1-1-poster.webp",
+    "file": "real-estate-reels-shorts/c4-variation-1-1.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 21.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "c8",
+    "title": "C8",
+    "preview": "/assets/video/real-estate-reels-shorts/c8-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/c8-poster.webp",
+    "file": "real-estate-reels-shorts/c8.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 7.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "celeb-houses-in-dubai-charlotte",
+    "title": "Celeb Houses in Dubai (Charlotte)",
+    "preview": "/assets/video/real-estate-reels-shorts/celeb-houses-in-dubai-charlotte-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/celeb-houses-in-dubai-charlotte-poster.webp",
+    "file": "real-estate-reels-shorts/celeb-houses-in-dubai-charlotte.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 25.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "commercial-in-dxb",
+    "title": "Commercial In Dxb",
+    "preview": "/assets/video/real-estate-reels-shorts/commercial-in-dxb-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/commercial-in-dxb-poster.webp",
+    "file": "real-estate-reels-shorts/commercial-in-dxb.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 44.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "concept-15",
+    "title": "Concept 15",
+    "preview": "/assets/video/real-estate-reels-shorts/concept-15-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/concept-15-poster.webp",
+    "file": "real-estate-reels-shorts/concept-15.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 48.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "developer-review-nakheel",
+    "title": "Developer review (nakheel)",
+    "preview": "/assets/video/real-estate-reels-shorts/developer-review-nakheel-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/developer-review-nakheel-poster.webp",
+    "file": "real-estate-reels-shorts/developer-review-nakheel.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 33.4,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "dm-us-now-to-register-get-answers-to-all-your-dubai-real-est",
+    "title": "DM us now to register! Get answers to all your Dubai real estate questions LIVE! With expert ins",
+    "preview": "/assets/video/real-estate-reels-shorts/dm-us-now-to-register-get-answers-to-all-your-dubai-real-est-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/dm-us-now-to-register-get-answers-to-all-your-dubai-real-est-poster.webp",
+    "file": "real-estate-reels-shorts/dm-us-now-to-register-get-answers-to-all-your-dubai-real-est.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 28.9,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "e66",
+    "title": "E66",
+    "preview": "/assets/video/real-estate-reels-shorts/e66-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/e66-poster.webp",
+    "file": "real-estate-reels-shorts/e66.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 56.3,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "elevator-pitch-a1",
+    "title": "Elevator Pitch - A1",
+    "preview": "/assets/video/real-estate-reels-shorts/elevator-pitch-a1-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/elevator-pitch-a1-poster.webp",
+    "file": "real-estate-reels-shorts/elevator-pitch-a1.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 40.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "ep-5-tips-for-new-brokers-nora",
+    "title": "Ep 5 “Tips for New Brokers” (Nora)",
+    "preview": "/assets/video/real-estate-reels-shorts/ep-5-tips-for-new-brokers-nora-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/ep-5-tips-for-new-brokers-nora-poster.webp",
+    "file": "real-estate-reels-shorts/ep-5-tips-for-new-brokers-nora.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 18.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "expo-city-qr-code",
+    "title": "Expo City (Qr code)",
+    "preview": "/assets/video/real-estate-reels-shorts/expo-city-qr-code-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/expo-city-qr-code-poster.webp",
+    "file": "real-estate-reels-shorts/expo-city-qr-code.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 35.1,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "expo-city",
+    "title": "Expo city",
+    "preview": "/assets/video/real-estate-reels-shorts/expo-city-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/expo-city-poster.webp",
+    "file": "real-estate-reels-shorts/expo-city.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 20.9,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "expo-vally-views",
+    "title": "Expo vally views",
+    "preview": "/assets/video/real-estate-reels-shorts/expo-vally-views-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/expo-vally-views-poster.webp",
+    "file": "real-estate-reels-shorts/expo-vally-views.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 34.9,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "ghaf-to-plam",
+    "title": "Ghaf to plam",
+    "preview": "/assets/video/real-estate-reels-shorts/ghaf-to-plam-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/ghaf-to-plam-poster.webp",
+    "file": "real-estate-reels-shorts/ghaf-to-plam.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 25.8,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "guess-logo",
+    "title": "Guess logo",
+    "preview": "/assets/video/real-estate-reels-shorts/guess-logo-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/guess-logo-poster.webp",
+    "file": "real-estate-reels-shorts/guess-logo.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 40.8,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "having-ring-agent-primi",
+    "title": "Having Ring Agent (primi)",
+    "preview": "/assets/video/real-estate-reels-shorts/having-ring-agent-primi-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/having-ring-agent-primi-poster.webp",
+    "file": "real-estate-reels-shorts/having-ring-agent-primi.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 44.3,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "hiring-agents-mila",
+    "title": "Hiring agents (mila)",
+    "preview": "/assets/video/real-estate-reels-shorts/hiring-agents-mila-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/hiring-agents-mila-poster.webp",
+    "file": "real-estate-reels-shorts/hiring-agents-mila.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 20.1,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "if-youre-serious-about-real-estate-investment-you-cant-ignor",
+    "title": "If youre serious about real estate investment, you cant ignore Expo City Dubai💰 This isnt ju",
+    "preview": "/assets/video/real-estate-reels-shorts/if-youre-serious-about-real-estate-investment-you-cant-ignor-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/if-youre-serious-about-real-estate-investment-you-cant-ignor-poster.webp",
+    "file": "real-estate-reels-shorts/if-youre-serious-about-real-estate-investment-you-cant-ignor.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 20.9,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "its-shoot-day",
+    "title": "It’s shoot day 📸",
+    "preview": "/assets/video/real-estate-reels-shorts/its-shoot-day-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/its-shoot-day-poster.webp",
+    "file": "real-estate-reels-shorts/its-shoot-day.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 15.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "jasmin-1",
+    "title": "Jasmin (1)",
+    "preview": "/assets/video/real-estate-reels-shorts/jasmin-1-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/jasmin-1-poster.webp",
+    "file": "real-estate-reels-shorts/jasmin-1.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 37.3,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "jasmine-1",
+    "title": "Jasmine 1",
+    "preview": "/assets/video/real-estate-reels-shorts/jasmine-1-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/jasmine-1-poster.webp",
+    "file": "real-estate-reels-shorts/jasmine-1.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 44.6,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "lucie",
+    "title": "Lucie",
+    "preview": "/assets/video/real-estate-reels-shorts/lucie-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/lucie-poster.webp",
+    "file": "real-estate-reels-shorts/lucie.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 60.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "mercedes-benz-1",
+    "title": "MERCEDES BENZ(1)",
+    "preview": "/assets/video/real-estate-reels-shorts/mercedes-benz-1-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/mercedes-benz-1-poster.webp",
+    "file": "real-estate-reels-shorts/mercedes-benz-1.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 44.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "mr-c-yogesh",
+    "title": "MR C (yogesh)",
+    "preview": "/assets/video/real-estate-reels-shorts/mr-c-yogesh-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/mr-c-yogesh-poster.webp",
+    "file": "real-estate-reels-shorts/mr-c-yogesh.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 20.1,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "mr-c-downtown-yogesh",
+    "title": "Mr C Downtown (Yogesh)",
+    "preview": "/assets/video/real-estate-reels-shorts/mr-c-downtown-yogesh-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/mr-c-downtown-yogesh-poster.webp",
+    "file": "real-estate-reels-shorts/mr-c-downtown-yogesh.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 47.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "nad-al-shebaba-black-sheep",
+    "title": "Nad al shebaba black sheep",
+    "preview": "/assets/video/real-estate-reels-shorts/nad-al-shebaba-black-sheep-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/nad-al-shebaba-black-sheep-poster.webp",
+    "file": "real-estate-reels-shorts/nad-al-shebaba-black-sheep.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 42.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "no-appreciation",
+    "title": "No appreciation",
+    "preview": "/assets/video/real-estate-reels-shorts/no-appreciation-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/no-appreciation-poster.webp",
+    "file": "real-estate-reels-shorts/no-appreciation.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 45.3,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "off-plan-mortgage-difficulty-primi-ep4",
+    "title": "Off-plan Mortgage Difficulty (Primi) - EP4;",
+    "preview": "/assets/video/real-estate-reels-shorts/off-plan-mortgage-difficulty-primi-ep4-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/off-plan-mortgage-difficulty-primi-ep4-poster.webp",
+    "file": "real-estate-reels-shorts/off-plan-mortgage-difficulty-primi-ep4.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 37.9,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "our-reaction-when-we-realized-that-the-viral-frukti-propitio",
+    "title": "Our reaction when we realized that the viral Frukti Propitious mango ice cream is now available",
+    "preview": "/assets/video/real-estate-reels-shorts/our-reaction-when-we-realized-that-the-viral-frukti-propitio-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/our-reaction-when-we-realized-that-the-viral-frukti-propitio-poster.webp",
+    "file": "real-estate-reels-shorts/our-reaction-when-we-realized-that-the-viral-frukti-propitio.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 12.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "palm-jabel-ali",
+    "title": "Palm jabel ali",
+    "preview": "/assets/video/real-estate-reels-shorts/palm-jabel-ali-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/palm-jabel-ali-poster.webp",
+    "file": "real-estate-reels-shorts/palm-jabel-ali.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 35.4,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "palm-jebel-ali-a-once-in-a-generation-investment-opportunity",
+    "title": "Palm Jebel Ali- a once-in-a-generation investment opportunity",
+    "preview": "/assets/video/real-estate-reels-shorts/palm-jebel-ali-a-once-in-a-generation-investment-opportunity-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/palm-jebel-ali-a-once-in-a-generation-investment-opportunity-poster.webp",
+    "file": "real-estate-reels-shorts/palm-jebel-ali-a-once-in-a-generation-investment-opportunity.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 56.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "paul-final",
+    "title": "Paul final",
+    "preview": "/assets/video/real-estate-reels-shorts/paul-final-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/paul-final-poster.webp",
+    "file": "real-estate-reels-shorts/paul-final.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 40.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "road-show",
+    "title": "Road show",
+    "preview": "/assets/video/real-estate-reels-shorts/road-show-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/road-show-poster.webp",
+    "file": "real-estate-reels-shorts/road-show.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 45.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "sky-blade-final-after-agent-review",
+    "title": "Sky blade - (final after agent review)",
+    "preview": "/assets/video/real-estate-reels-shorts/sky-blade-final-after-agent-review-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/sky-blade-final-after-agent-review-poster.webp",
+    "file": "real-estate-reels-shorts/sky-blade-final-after-agent-review.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 43.1,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "sto-trailer",
+    "title": "Sto trailer",
+    "preview": "/assets/video/real-estate-reels-shorts/sto-trailer-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/sto-trailer-poster.webp",
+    "file": "real-estate-reels-shorts/sto-trailer.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 32.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "the-heights-haider-1",
+    "title": "The Heights (Haider)(1)",
+    "preview": "/assets/video/real-estate-reels-shorts/the-heights-haider-1-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/the-heights-haider-1-poster.webp",
+    "file": "real-estate-reels-shorts/the-heights-haider-1.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 30.8,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "the-heights-jasmin",
+    "title": "The Heights (Jasmin)",
+    "preview": "/assets/video/real-estate-reels-shorts/the-heights-jasmin-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/the-heights-jasmin-poster.webp",
+    "file": "real-estate-reels-shorts/the-heights-jasmin.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 23.4,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "the-loop-jasmin",
+    "title": "The Loop (Jasmin)",
+    "preview": "/assets/video/real-estate-reels-shorts/the-loop-jasmin-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/the-loop-jasmin-poster.webp",
+    "file": "real-estate-reels-shorts/the-loop-jasmin.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 20.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "turn-4-million-dirhams-into-2-5-million-dirhams-of-profit-in",
+    "title": "Turn 4 million dirhams into 2 5 million dirhams of profit in just 18 months! 📈",
+    "preview": "/assets/video/real-estate-reels-shorts/turn-4-million-dirhams-into-2-5-million-dirhams-of-profit-in-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/turn-4-million-dirhams-into-2-5-million-dirhams-of-profit-in-poster.webp",
+    "file": "real-estate-reels-shorts/turn-4-million-dirhams-into-2-5-million-dirhams-of-profit-in.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 45.7,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "we-are-hiring",
+    "title": "We are hiring",
+    "preview": "/assets/video/real-estate-reels-shorts/we-are-hiring-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/we-are-hiring-poster.webp",
+    "file": "real-estate-reels-shorts/we-are-hiring.mp4",
+    "w": 2160,
+    "h": 3840,
+    "duration": 7.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "yogesh-house-tour-1",
+    "title": "Yogesh House Tour(1)",
+    "preview": "/assets/video/real-estate-reels-shorts/yogesh-house-tour-1-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/yogesh-house-tour-1-poster.webp",
+    "file": "real-estate-reels-shorts/yogesh-house-tour-1.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 39.1,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "zaha-hadid",
+    "title": "Zaha Hadid",
+    "preview": "/assets/video/real-estate-reels-shorts/zaha-hadid-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/zaha-hadid-poster.webp",
+    "file": "real-estate-reels-shorts/zaha-hadid.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 36.0,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "ever-wondered-what-those-platinum-certifications-for-office-",
+    "title": "✨ Ever wondered what those Platinum Certifications for office buildings really mean 🏢💎In this",
+    "preview": "/assets/video/real-estate-reels-shorts/ever-wondered-what-those-platinum-certifications-for-office--preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/ever-wondered-what-those-platinum-certifications-for-office--poster.webp",
+    "file": "real-estate-reels-shorts/ever-wondered-what-those-platinum-certifications-for-office-.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 43.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "alerte-legale-a-dubainouvelle-regularisation-du-poa-procurat",
+    "title": "🚨 ALERTE LÉGALE À DUBAÏNouvelle régularisation du POA (procuration) en vigueur !📝 Ce que les i",
+    "preview": "/assets/video/real-estate-reels-shorts/alerte-legale-a-dubainouvelle-regularisation-du-poa-procurat-preview.mp4",
+    "poster": "/assets/video/real-estate-reels-shorts/alerte-legale-a-dubainouvelle-regularisation-du-poa-procurat-poster.webp",
+    "file": "real-estate-reels-shorts/alerte-legale-a-dubainouvelle-regularisation-du-poa-procurat.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 39.5,
+    "orientation": "vertical"
+   }
+  ]
+ },
+ {
+  "slug": "real-estate-youtube",
+  "title": "Real Estate — YouTube",
+  "type": "video",
+  "category": "Real Estate",
+  "count": 1,
+  "cover": "/assets/video/real-estate-youtube/paul-sto-poster.webp",
+  "items": [
+   {
+    "slug": "paul-sto",
+    "title": "Paul sto",
+    "preview": "/assets/video/real-estate-youtube/paul-sto-preview.mp4",
+    "poster": "/assets/video/real-estate-youtube/paul-sto-poster.webp",
+    "file": "real-estate-youtube/paul-sto.mp4",
+    "w": 1920,
+    "h": 1080,
+    "duration": 402.3,
+    "orientation": "horizontal"
+   }
+  ]
+ },
+ {
+  "slug": "shirin-sweets",
+  "title": "Shirin Sweets",
+  "type": "video",
+  "category": "Food & Beverage",
+  "count": 4,
+  "cover": "/assets/video/shirin-sweets/shirin-sweet-eid-special-poster.webp",
+  "items": [
+   {
+    "slug": "shirin-sweet-eid-special",
+    "title": "Shirin sweet eid special",
+    "preview": "/assets/video/shirin-sweets/shirin-sweet-eid-special-preview.mp4",
+    "poster": "/assets/video/shirin-sweets/shirin-sweet-eid-special-poster.webp",
+    "file": "shirin-sweets/shirin-sweet-eid-special.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 24.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "shirin-sweets-04-02",
+    "title": "Shirin Sweets 04 02",
+    "preview": "/assets/video/shirin-sweets/shirin-sweets-04-02-preview.mp4",
+    "poster": "/assets/video/shirin-sweets/shirin-sweets-04-02-poster.webp",
+    "file": "shirin-sweets/shirin-sweets-04-02.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 19.2,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "shirin-sweets-04-03",
+    "title": "Shirin Sweets 04 03",
+    "preview": "/assets/video/shirin-sweets/shirin-sweets-04-03-preview.mp4",
+    "poster": "/assets/video/shirin-sweets/shirin-sweets-04-03-poster.webp",
+    "file": "shirin-sweets/shirin-sweets-04-03.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 26.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "shirinsara-2",
+    "title": "Shirinsara 2",
+    "preview": "/assets/video/shirin-sweets/shirinsara-2-preview.mp4",
+    "poster": "/assets/video/shirin-sweets/shirinsara-2-poster.webp",
+    "file": "shirin-sweets/shirinsara-2.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 39.1,
+    "orientation": "vertical"
+   }
+  ]
+ },
+ {
+  "slug": "shygan",
+  "title": "Shygan",
+  "type": "video",
+  "category": "Brand",
+  "count": 1,
+  "cover": "/assets/video/shygan/shygan-box-reval-poster.webp",
+  "items": [
+   {
+    "slug": "shygan-box-reval",
+    "title": "Shygan , box reval",
+    "preview": "/assets/video/shygan/shygan-box-reval-preview.mp4",
+    "poster": "/assets/video/shygan/shygan-box-reval-poster.webp",
+    "file": "shygan/shygan-box-reval.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 27.2,
+    "orientation": "vertical"
+   }
+  ]
+ },
+ {
+  "slug": "tj-s",
+  "title": "TJ's",
+  "type": "video",
+  "category": "Food & Beverage",
+  "count": 4,
+  "cover": "/assets/video/tj-s/intro-tjs-poster.webp",
+  "items": [
+   {
+    "slug": "intro-tjs",
+    "title": "Intro Tjs",
+    "preview": "/assets/video/tj-s/intro-tjs-preview.mp4",
+    "poster": "/assets/video/tj-s/intro-tjs-poster.webp",
+    "file": "tj-s/intro-tjs.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 17.3,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "mocktail-tjs",
+    "title": "Mocktail tjs",
+    "preview": "/assets/video/tj-s/mocktail-tjs-preview.mp4",
+    "poster": "/assets/video/tj-s/mocktail-tjs-poster.webp",
+    "file": "tj-s/mocktail-tjs.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 5.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "nike-x-rely",
+    "title": "NIKE x Rely",
+    "preview": "/assets/video/tj-s/nike-x-rely-preview.mp4",
+    "poster": "/assets/video/tj-s/nike-x-rely-poster.webp",
+    "file": "tj-s/nike-x-rely.mp4",
+    "w": 720,
+    "h": 1280,
+    "duration": 18.5,
+    "orientation": "vertical"
+   },
+   {
+    "slug": "vibe-tj",
+    "title": "Vibe TJ",
+    "preview": "/assets/video/tj-s/vibe-tj-preview.mp4",
+    "poster": "/assets/video/tj-s/vibe-tj-poster.webp",
+    "file": "tj-s/vibe-tj.mp4",
+    "w": 1080,
+    "h": 1920,
+    "duration": 17.9,
+    "orientation": "vertical"
+   }
+  ]
+ }
+]
