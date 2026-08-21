@@ -1,0 +1,67 @@
+/* Mobile corrections layered on top of the inherited Webflow stylesheet.
+   Each rule fixes something measured at 375x812, not a guess. */
+
+@media screen and (max-width: 767px) {
+  /* The inherited rule caps this at 30svh which, against its 2/3 aspect ratio,
+     rendered a 162px-wide hero on a 375px screen. */
+  .about-intro-main-visual {
+    max-height: none;
+    width: min(100%, 300px);
+    margin-inline: auto;
+  }
+
+  /* Our category names ("Food & Beverage", "Events & BTS") are longer than the
+     one-word labels this dial was built for, and spilled ~12px past the viewport. */
+  .clock-menu__subnav-panel { max-width: min(46vw, 170px); }
+  .clock-menu__subnav-link {
+    font-size: .72rem;
+    line-height: 1.25;
+    white-space: normal;
+    text-align: left;
+  }
+
+  /* Header contact links measured 15px tall - under a comfortable tap target. */
+  .header-link { display: inline-block; padding: .4rem 0; }
+}
+
+@media (max-width: 600px) {
+  /* Lightbox arrows measured 33x33; 44x44 is the minimum comfortable tap size. */
+  .lb__nav { padding: .8rem; min-width: 44px; min-height: 44px; }
+  .lb__x { padding: .55rem; min-height: 44px; }
+}
+
+/* ------------------------------------------------------------------
+   About and Hire carry far more content than the pages this template
+   was built for, so they scroll through the two fixed overlays: the
+   header at the top and the footer credit at the bottom. A scrim in
+   the page colour lets content fade out behind both instead of
+   colliding with the text. Scoped so the full-bleed WebGL pages are
+   left exactly as they are.
+   ------------------------------------------------------------------ */
+body:has([data-namespace="about"]) .header::before,
+body:has([data-namespace="book"]) .header::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 130px;
+  background: linear-gradient(to bottom, rgb(245, 244, 241) 42%, rgba(245, 244, 241, 0));
+  pointer-events: none;
+  z-index: -1;
+}
+
+body:has([data-namespace="about"]) .footer::before,
+body:has([data-namespace="book"]) .footer::before {
+  content: "";
+  position: absolute;
+  inset: auto 0 0 0;
+  height: 120px;
+  background: linear-gradient(to top, rgb(245, 244, 241) 42%, rgba(245, 244, 241, 0));
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* and keep the last section clear of the footer credit line */
+body:has([data-namespace="about"]) .page-content > section:last-of-type,
+body:has([data-namespace="book"]) .page-content > div:last-of-type {
+  padding-bottom: 7rem;
+}
