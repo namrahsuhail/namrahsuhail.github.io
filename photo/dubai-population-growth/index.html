@@ -1098,6 +1098,25 @@ grid-column:1;
     if(thumbs[i]&&thumbs[i].scrollIntoView) thumbs[i].scrollIntoView({block:'nearest',inline:'center'});
     [i-1,i+1].forEach(function(n){ if(frames[n]) (new Image()).src=frames[n].full; });
   }
+  /* The visible NN/NN counter is the only place the renderer's current slide is
+     exposed: each digit column holds a 30-digit strip that it translates. Read the
+     offset back to a digit so the lightbox opens on the slide being looked at. */
+  function currentIndex(){
+    function digit(name){
+      var col=document.querySelector('[data-digit-column="'+name+'"]');
+      var strip=col && col.children[0];
+      if(!strip || !strip.children.length) return null;
+      var step=strip.getBoundingClientRect().height/strip.children.length;
+      if(!step) return null;
+      var y=new DOMMatrixReadOnly(getComputedStyle(strip).transform).f;
+      return ((Math.round(-y/step)%10)+10)%10;
+    }
+    var t=digit('tens'), o=digit('ones');
+    if(t===null||o===null) return 0;
+    var n=t*10+o;
+    return (n>=1 && n<=frames.length) ? n-1 : 0;
+  }
+
   function show(n){ open=true; lb.classList.add('is-open');
     document.documentElement.style.overflow='hidden'; go(n||0); lb.querySelector('.lb__x').focus(); }
   function hide(){ open=false; lb.classList.remove('is-open');
@@ -1131,12 +1150,12 @@ grid-column:1;
     var quick = !t0 || (Date.now()-t0) < 500;
     var still = !moved && Math.abs(e.clientX-dx0)<=8 && Math.abs(e.clientY-dy0)<=8;
     t0=0;
-    if(quick && still) show(0);
+    if(quick && still) show(currentIndex());
   }
   host.addEventListener('pointerdown',down);
   host.addEventListener('pointermove',move);
   host.addEventListener('pointerup',up);
   // some pointer sequences get swallowed by the renderer; click is the backstop
-  host.addEventListener('click',function(e){ if(!open && !moved) show(0); });
+  host.addEventListener('click',function(e){ if(!open && !moved) show(currentIndex()); });
 })();
 </script></body></html>
